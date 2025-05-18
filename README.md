@@ -6,5 +6,6 @@
 
 🤝 I'm open to collaborating on educational and open-source projects.
 
-📫 You can reach me at: [tinsaebr1221@gmail.com](mailto:tinsaebr1221@gmail.com) [GitHub Profile](https://github.com/ktinsu)
+📫 You can reach me at: [tinsaebr1221@gmail.com](mailto:tinsaebr1221@gmail.com) 
+                      :[GitHub Profile](https://github.com/ktinsu)
   
