@@ -9,6 +9,6 @@
 📫 You can reach me at: 
        📫 Email: [tinsaebr1221@gmail.com](mailto:tinsaebr1221@gmail.com) 
 
-      🔗 GitHub: [https://github.com/ktinsu](https://github.com/ktinsu)
+ 🔗 GitHub: [https://github.com/ktinsu](https://github.com/ktinsu)
 
   
